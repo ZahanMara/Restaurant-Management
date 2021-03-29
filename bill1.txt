@@ -1,0 +1,8 @@
+Order ID: 1
+Table: 1
+Ordered items:
+supa de galuste 9.0
+snitel de pui 11.0
+cartofi prajiti 8.0
+prajitura cu mere 10.0
+Total price: 38.0

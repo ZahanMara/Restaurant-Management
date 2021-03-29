@@ -1,0 +1,6 @@
+Order ID: 2
+Table: 3
+Ordered items:
+snitel 10.0
+snitel 10.0
+Total price: 20.0
